@@ -1,0 +1,21 @@
+{
+"manifest_version": 2,
+    "name": "English to Anglish",
+    "description": "Turns English into Anglish",
+    "version": "1.0",
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_end"
+        }
+    ],
+    "icons": {
+      "16": "icon16.png",
+      "128": "icon128.png"
+    }
+}

@@ -1,0 +1,1 @@
+A Google Chrome extension to turn English into "Anglish"
