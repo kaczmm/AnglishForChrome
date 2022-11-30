@@ -1,4 +1,3 @@
-English,n,Anglish
 a cappella,avb/adj,singing
 à la carte,adj,by-the-list
 aardvark,n,ant bear
@@ -25,7 +24,7 @@ abjure,vb,forswear
 ablactate,vb,wean
 ablation,n,offtaking
 ablative,adj,atbraidingly
-ablaut,n,offlloud
+ablaut,n,offloud
 able,adj,fit
 able to,phr,can
 ablution,n,washing
@@ -102,6 +101,7 @@ acrobat,n,stringtumb
 acropolis,n,high town
 act,n,deed
 act,vb,do
+actinium,n,beamshaft
 action,n,deed 
 activate,vb,switch on
 active,adj,switched on
@@ -265,8 +265,8 @@ alternative,adj,other
 altitude,n,height
 altruism,n,selflessness
 altruistic,adj,selfless
-aluminum/aluminium,n,canstuff
-Alzheimers,n,the long goodbye
+aluminium,n,evenshaft
+aluminum,n,canshaft
 amass,vb,gather
 amateur,n,greenhorn
 amazon,n,bandfighters 
@@ -279,10 +279,11 @@ ambiguity,n,twiwordiness
 ambivalence,n,waver
 ambivert,n,twigoer
 ambiverted,adj,twigoing
-ambulance,n,sickwain crankwain 
+ambulance,n,sickwain 
 ambulant,adj,roving
 ameliorate,vb,better
 America,n,New World
+americium,n,emeryshaft
 amicable,adj,friendly
 amigo,n,friend
 ammonia,n,hartshorn
@@ -303,7 +304,9 @@ amusement,n,fun
 amusing,adj,listing
 anachronism,n,mistiming 
 anaconda,n,whipsnake
+anaesthesiologist,n,warkleech
 anaesthetic,adj,unsightly
+anaesthetist,n,warkleech
 anagram,n,stavewrixel
 anal,adj,bottom
 analgesic,n,numbing
@@ -324,13 +327,15 @@ android,n,manhue/werehue
 anemometer,n,windmeter 
 anemone,n,windrose
 anesthesia,n,unfeeler 
+anesthesiologist,n,warkleech
+anesthetist,n,warkleech
 angel,n,rotherer
 anger,n,ire
 angle,n,nook
 angry,adj,wrathful
 anguish,n,woe
 angular,adj,nook-shot
-animal,n,being
+animal,n,deer
 animate,vb,liven
 animation,n,drawn film
 anime,n,dawnlandish livedrawing
@@ -363,22 +368,23 @@ antelope,n,pronghorn
 anterior,adj,foreward
 anterior,n,fore
 anthem,n,folksong 
-anthocyanin,n,flowerblue
+anthocyanin,n,bloomblow
 anthology,n,reader
 Anthropocene,n,Mantide
 anthropology,n,theedlore
 anti-,n,wither-
 anti-vaxx,adj,wither-imp
 antibiotic,n,gainrodlifeanwork
-antisemite,adj,Jew-hater
+antimony,n,greyshaft
+antisemite,n,Jew-hater
 anticipate,vb,foretell
 antics,n,odd behaveness
 antidisestablishmentarianism,n,gainunstathelingmanness
 antidote,n,atterloathe 
-antigen,n,offweirstuff
+antigen,n,offweirshaft
 antihero,n,gainheleth
 antilope,n,buck 
-antimatter,n,gainstuff
+antimatter,n,gainshaft
 antipathy,n,mislike
 antipope,n,gainfather 
 antiquated,adj,careworn
@@ -469,7 +475,7 @@ ardour,n,keenness
 area,n,land
 argent,n,silver
 Argentina,n,Silverland
-argon,n,lazystuff
+argon,n,idleshaft
 arguable,adj,moot
 argue,vb,flite
 argument,n,flite
@@ -495,11 +501,12 @@ arrest,vb,nab
 arrive at,vb,reach
 arrogant,adj,proud
 arsenal,n,weaponhoard
+arsenic,n,sheenshaft
 arsonist,n,fire-raiser
 art,n,craft
 artery,n,loftblood adder
 artesian,adj,thringrising
-argon,n,idlestuff
+argon,n,idleshaft
 arthritis,n,lithbollow 
 artichoke,n,eatthistle 
 article,n,thing
@@ -531,7 +538,7 @@ assistance,n,help
 assistant,n,helper
 association,n,hookup
 assume,vb,deem
-assure,vb,forsaeka 
+astatine,n,taltershaft
 aster,n,starbloom
 asterisk,n,star
 asteroid,n,roomrock
@@ -678,6 +685,7 @@ barbarous,adj,heartless
 barbeque,n,stickwork
 bargain,vb,cheapen
 barge,n,scow
+barium,n,swereshaft
 barometer,n,weatherglass
 barracks,n,wyehut
 barracuda,n,toothfish
@@ -735,7 +743,8 @@ benign,adj,harmless
 berate,vb,upbraid
 beret,n,flathat
 berg,n,barrow
-beryllium,n,greenstuff
+berkelium,n,berkeleyshaft
+beryllium,n,greenshaft
 besiege,vb,beleaguer
 bestiality,vb,deerlust
 betray,vb,backstab
@@ -768,6 +777,7 @@ birthplace,n,birthstead
 biscuit,n,cookie
 bisect,vb,cleave
 bisexual,n,twiluster
+bismuth,n,tinglass
 bison,n,wisent
 bittern,n,havelbleat/havenbleat 
 bitumen,n,blacktop
@@ -791,6 +801,7 @@ bodyguard,n,holdand
 boffin,n,witshipper
 bog,n,mire
 bogus,adj,wrong
+bohrium,n,bohrshaft
 boil,vb,well up
 boilersuit,n,overalls
 bomb,n,blow sky-high
@@ -801,7 +812,7 @@ boomerang,n,andglider
 boondocks,n,nowhere
 bordello,n,whorehouse
 border,n,brim
-boron,n,weldstuff
+boron,n,weldshaft
 boss,n,foreman
 botany,n,wortlore
 bottle,n,flask
@@ -834,7 +845,7 @@ Brazilwood,n,rudwood
 breach of peace,n,grithbruck 
 breakable,n,brittle
 break into pieces,vb,kniss 
-brevë,adj,short
+breve,adj,short
 brewery,n,brewhouse
 bribe,vb,buy off
 bric-à-brac,n,by hook or by crook
@@ -849,7 +860,7 @@ brilliant,adj,shining
 brisk,adj,swift
 broccoli,n,sproutcole
 brochure,n,flyer
-bromine,n,stenchstuff
+bromine,n,stenchshaft
 browser,n,web crawler
 bruise,n,lill
 brunch,n,morgenmete
@@ -904,27 +915,31 @@ cactus,n,fatthistle
 cadaver,n,shell
 cadaverous,adj,deathly
 cadet,n,forefighter
-cadmium,n,Wodan
+cadmium,n,cademshaft
 cæcum,n,blinde gut
 Cæsar,n,overlord
 cæsium,n,silverwhite
-café,n,tearoom
+caesium,n,hewnshaft
+café,n,coffeehouse
 cafeteria,n,lunchroom
 cage,n,bower 
 cajole,vb,soft-soap
 calamari,n,cuttlefish
-calcaneüs,n,heelbone
-calcium,n,milkstuff
+calcaneus,n,heelbone
+calcium,n,limeshaft
 calcium carbonate,n,coalsour lime
 calculate,vb,reckon
 calculation,n,tale
 calculator,n,handreckoner
 calculus,n,reckoning
 calendar,n,daybook
+californium,n,moorshaft
+caliphate,n,califdom
 calisthenics,n,drills
 calligraphy,n,longhand
 calligraphy pen,n,longhandwritingise/-iron
 callous,adj,hardened
+callus,n,war
 calm,adj,lown
 calm,vb,lull
 caluminate,vb,grime
@@ -939,7 +954,7 @@ campaign,n,bandwagon
 campaign,vb,take the stump
 campus,n,yard
 canal,n,leat
-cancer,n,Old English
+cancer,n,canker
 candelabrum,n,glimtree
 candidate,n,hopeful
 candied,adj,sweetened
@@ -968,9 +983,10 @@ caption,n,underwrit
 captivate,vb,wile
 captivity,n,trap
 capture,vb,nail
-car,n,slang
+capybara,n,waterhog
+car,n,wain
 caravan,n,tradewagon
-carbon,n,chark
+carbon,n,coalshaft
 carbon dioxide,n,wortloft
 carburator,n,forelofter
 carcass,n,bones
@@ -978,6 +994,7 @@ card,n,sheet
 cardboard,n,headboard
 cardiac arrest,n,heartstop
 cardinal,n,bird
+cardiologist,n,heartleech
 career,n,calling
 caress,vb,fondle
 cargo,n,draft
@@ -1064,6 +1081,7 @@ central,adj,location
 centurion,n,hundfrea 
 century,n,yearhundred
 cereal,n,morningcorn 
+cerium,n,walkirryshaft
 certain,adj,wis
 certainty,n,wishood 
 certificate,n,beshining 
@@ -1112,7 +1130,7 @@ China,n,Midric
 Chinese Characters,n,midricrunes/-rouns 
 chivalrous,n,big
 chivalry,n,knightliness
-chlorine,n,bleachstuff
+chlorine,n,bleachshaft
 chlorophyll,n,leafgreen
 chocolate milk,n,muckeatsmilk
 choice,n,choosing
@@ -1124,7 +1142,7 @@ Christianity,n,Christendom
 Christmas,n,Yule
 chromosome,n,lifepith
 chromatid,n,lifepithhalf
-chromium,n,shinestuff
+chromium,n,hueshaft
 chronicle,n,ledger
 chronology,n,timeline
 chrysanthemum,n,goldbloom
@@ -1185,13 +1203,13 @@ coalition,n,block
 coast,n,shore
 coastline,n,shoreline
 coat of arms,n,kinshield
+cobalt,n,puckshaft
 cocaine,n,slangs
 coccyx,n,tailbone
 cochlea,n,hearsnail 
 cockroach,n,shave 
 coconut,n,skulnut 
 code,n,dern
-coffee,n,brew
 coffer,n,hoardvat 
 coffin,n,through 
 cognate,n,kinword
@@ -1411,8 +1429,9 @@ cooperative,n,neatship
 cop,vb,nab
 cop,n,hound
 cope,vb,deal
+copernicium,n,copernickshaft
 copious,adj,beteeming
-copper,n,ar 
+copper,n,are 
 copper,adj,arn 
 copse,n,thicket
 copy,n,twin
@@ -1563,6 +1582,7 @@ cure,vb,heal
 curiosity,n,witfire
 curious,adj,newsyearny
 curious,vb,funny
+curium,n,curieshaft
 curlew,n,whaup
 currency,n,minthood
 current,adj,nowaday
@@ -1603,6 +1623,7 @@ dance,vb,step
 dandelion,n,horsebloom 
 danger,n,plight
 dangerous,adj,plightful
+darmstadtium,n,darmsteadshaft
 dart,n,darth 
 data,n,rawput
 database,n,fading 
@@ -1727,6 +1748,7 @@ deranged,adj,crazed
 deregulation,n,unreding
 derive,vb,come from
 derived,adj,forthbrought
+dermatologist,n,hideleech
 dermatology,n,hidelore
 dermis,n,hide
 derogatory,adj,aworthly
@@ -1745,6 +1767,7 @@ deserving,adj,meedful
 designate,vb,betoken
 desinfectant,n,withersmite
 desirous,adj,wishful
+desman,n,watermole
 desolate,adj,barren
 desolation,n,aweestness 
 despair,n,hopelessness
@@ -1952,6 +1975,7 @@ drupe,n,stoneberry
 dual,adj,twin
 dub,vb,name
 dubious,adj,dodgy
+dubnium,n,dubnashaft
 duchy,n,earldom
 due,adj,owing
 duel,n,ballgame
@@ -1966,7 +1990,8 @@ dynamic,n,snell
 dynasty,n,erverike
 dysentery,n,reddrif 
 dysfunctional,adj,unworking
-dyslexic,n,word-blindness
+dyslexia,n,word-blindness
+dysprosium,n,arvethshaft
 eager,adj,earnest
 ease,n,lightheartedness
 ease,vb,allay 
@@ -2013,6 +2038,7 @@ egotistic,adj,bigheaded
 egregious,adj,gross
 egressive,adj,outflowing
 Egypt,n,Two Narrows
+einsteinium,n,anstonshaft
 ejaculate,vb,spout
 eject,vb,cast out
 elaborate,adj,spelled out
@@ -2054,6 +2080,7 @@ emerge,vb,come up
 emergency,n,need
 emigrant,n,outgoer
 eminence,n,height
+emirate,n,emirdom
 emissary,n,sentman 
 emit,vb,spout
 emotion,n,stirring
@@ -2098,14 +2125,14 @@ endowment,n,knack
 endure,vb,last
 endurance,n,strength
 enemy,n,foe
-energy,n,alne 
+energy,n,ellen 
 enervate,vb,unman
 enforce,vb,helmstand
 engaged,adj,working
 engine,n,craft
-engineer,n,wright
+engineer,n,sarewright
 enigma,n,riddle
-enjoy,vb,intrans
+enjoy,vb,neet
 enjoyment,n,wen
 enlarge,vb,swell
 enmity,n,foedom
@@ -2125,7 +2152,7 @@ entire,adj,whole
 entirety,n,whole
 entitle,vb,let
 entitled,adj,upstart
-entrail,n,innard
+entrail,n,offal
 entrance,n,key
 entrance,vb,bewitch
 entrepreneur,n,business
@@ -2169,14 +2196,15 @@ equipment,n,gear
 equitable,adj,evenhanded
 equivalent,adj,likeworthy 
 equivalent,n,fellow
-era,n,timespan
+era,n,eld
 eradicate,vb,wipe out
 erase,vb,rub out
 eraser,n,rubber
+erbium,n,sweeshaft
 erection,n, building 2
 ergonomic,adj,body-friendly
 erinacine,n,hedgehog
-eritrocyte,n,red bloodmote
+erithrocyte,n,red bloodmote
 ermine,n,stoat
 erotic,adj,lovely
 err,vb,wander
@@ -2215,6 +2243,7 @@ euphemism,n,gilded words
 euphonic,adj,wellclinking
 euphoria,n,good-feeling
 Europe,n,Eveland
+europium,n,eveshaft
 euthanasia,n,death-choosing
 evacuate,vb,empty
 evade,vb,dodge
@@ -2355,7 +2384,7 @@ fabricate,vb,bring into being
 fabrication,n,making
 fabulous,adj,groovy
 facade,n,foreside
-face,n,shell
+face,n,leer
 facet,n,side
 facetious,adj,biting
 facilitate,vb,easen
@@ -2404,7 +2433,8 @@ farming,vb,tillage
 farrago,n,mash
 fasces,n,bundle
 fascia,n,strip
-fascism,n,bundlerikedom
+fascism,n,bundlelief
+fascist,n,blackshirt
 fascinate,vb,bewitch
 fascinated,adj,inthralled
 fashion,vb,fit
@@ -2442,6 +2472,7 @@ feline,adj,pusslike
 fellow,n,gesith
 fellowship,n,gesithship
 felony,n,headsin
+female,adj,wifely
 female,n,quean
 feminine,adj,wifely 
 feminism,n,wifehoodness
@@ -2451,10 +2482,10 @@ femur,n,thigh bone
 fence,n,waugh
 fender,n,shield
 fennec,n,dryland fox
-feodalism,n,flack fellowship
 feral,adj,wild
 feric,adj,ironlike
 feriferous,adj,iron-yielding
+fermium,n,fermishaft
 ferocious,adj,fiendish
 ferret,n,neasle
 ferret,vb,hound
@@ -2468,8 +2499,9 @@ festoon,n,wreathe
 festoon,vb,deck
 fetid,adj,smelly
 fetish,n,kink
-feudal,adj,toll-run
 feud,n,foe-fighting
+feudal,adj,toll-run
+feudalism,n,leandom
 fever,n,ail
 fiancé,n,betrothed
 fiancée,n,betrothed
@@ -2480,7 +2512,7 @@ fiction,n,literature
 fictional,adj,made up
 fidelity,n,faithfullness
 figment,n,daydream
-figure,n,gestelld 
+figure,n,ansen 
 figure out,vb,riddle
 filings,n,swarf
 Filipino Language,n,Philipslandish Tung
@@ -2506,9 +2538,10 @@ flamingo,n,stiltswan
 flange,n,rim
 flask,n,flax 
 flatulence,n,wind
-flavour,n,tang
+flavour,n,swetch
 flax,n,linwort
-Flensburg,n,Flensburgh
+Flensburg,n,Flensbury
+flerovium,n,flerovshaft
 flexible,adj,lithe
 flexibility,n,limberness
 flight-hooligan,n,flight-dretch
@@ -2525,7 +2558,7 @@ fluctuate,n,swing
 fluent,adj,flowing
 fluid,adj,runny
 fluorescent,adj,leaming
-fluorine,n,yellowstuff
+fluorine,n,flowshaft
 flux,n,flowing
 flying buttess,n,loftbow 
 focus,n,eye
@@ -2571,6 +2604,7 @@ framboise,n,raspberry
 francophone,adj,French-speaking
 franchise,n,saga
 France,n,Frankland
+francium,n,frankshaft
 fraternal,adj,brotherly
 fraternity,n,brotherhood
 fraud,n,swindle
@@ -2613,12 +2647,13 @@ fuse,n,meld
 future,n,by-and-by
 future,adj,forthcoming
 gabbling,adj,babbling
+gadolinium,n,gadolinshaft
 galactose,n,brainsweet
-galaxy,n,spiral
+galaxy,n,starswirl
 galleon,n,fleetship
 gallery,n,hallway
 galley,n,cookroom
-gallium,n,frankstuff
+gallium,n,gallshaft
 garage,n,roadhut
 gargle,vb,gurgle 
 gargoyle,n,waterspewer 
@@ -2626,6 +2661,7 @@ garland,n,wreath
 garments,n,clothes
 garrulous,adj,long-winded
 gas,n,wind
+gastroenterologist,n,gutleech
 gastrolith,n,mawstone
 gay,adj,blithe
 gazebo,n,summerhouse
@@ -2664,7 +2700,7 @@ geriatric,n,long-lived
 germ,n,bug
 German,adj,Deutsch
 Germanic,adj,Germanish
-germanium,n,theedstuff
+germanium,n,theechshaft
 Germany,n,Theechland
 germinate,vb,bud
 gestational,adj,bearingly
@@ -2746,12 +2782,15 @@ gullet,n,throat
 gully,n,draw 
 gunpowder,n,gundust
 guy,n,fellow
+gynaecologist,n,wifeleech
+gynecologist,n,wifeleech
 gyroscope,n,shiftop
 haberdasher,n,hatter
 habit,n,trend
-háček,n,hookling
+háček,n,wedge
 hadron,n,strongmote
-hafnium,n,havenstuff
+haematologist,n,bloodleech
+hafnium,n,havenshaft
 hagiography,n,holilore
 hallucination,n,smoke and glass
 halophile,n,salt-loving
@@ -2765,6 +2804,7 @@ harness,vb,inspan
 harpsichord,n,harpstring
 harpy eagle,n,king's hawk 
 hashish,n,hemptar
+hassium,n,hesshaft
 haste,n,speed
 haunt,vb,hound
 have in common,vb,share
@@ -2772,9 +2812,10 @@ having a good voice,adj,having a good steven
 hectare,n,hundreder
 helicopter,n,eggbeater
 heliotrope,n,silewharve 
-helium,n,sunstuff
+helium,n,sunshaft
 helix,n,writhe
 helmet,n,helm
+hematologist,n,bloodleech
 hemicircle,n,halfring
 hemisphere,n,ballhalf
 hen coop,n,henhouse
@@ -2809,6 +2850,7 @@ historian,n,sheedteller
 historic,adj,sheedly 
 history,n,yore
 hodiernal,adj,tidely
+holmium,n,holmshaft
 holocaust,n,burn-all
 hologram,n,woven build
 homage,n,manred 
@@ -2868,7 +2910,7 @@ husband,n,were
 hushed,adj,still
 hyacinth,n,darkbluehurst
 hydraulics,n,waterworks
-hydrogen,n,waterstuff 
+hydrogen,n,watershaft 
 hydrotherapy,n,waterhealing
 hyena,n,nightgang 
 hymn,n,hymn
@@ -2904,7 +2946,7 @@ idolatry,n,worshipping
 idolize,vb,worship
 igloo,n,icehouse
 ignis fatuus,n,will-o-the-wisp
-ignite,vb,fire
+ignite,vb,anneal
 ignorance,n,benightedness
 ignorant,adj,benighted
 ignore,vb,unheed
@@ -3002,8 +3044,12 @@ indecisive,adj,wavering
 indelicate,adj,heavy handed
 independent,adj,free
 independence,n,freedom
+infectiologist,n,onflyleech
+infectious disease,n,onfly
+infectious disease specialist,n,onflyleech
+infectologist,n,onflyleech
 inferior nasal concha,n,lower nosely spinner
-India,n,IndlandEaland 
+India,n,Indland
 indicate,vb,bespeak
 indication,n,hint
 indifference,n,onesideness
@@ -3011,6 +3057,7 @@ indigent,adj,needy
 indignity,n,brickbat
 indiscriminated,adj,swoopstake
 indisposed,adj, unsound
+indium,n,woadshaft
 individual,adj,indirectly
 individual,n,onelepy
 individualism,n,selfdom
@@ -3077,7 +3124,8 @@ initial,adj,first
 initiate,vb,start
 injection,n,hypodermic
 injure,vb,harm
-ink,n,dyestuffblack 
+ink,n,bleck
+inkhorn,n,bleckhorn
 innate,adj,built-in
 innocence,n,greenness
 innocent,adj,sinless
@@ -3179,6 +3227,7 @@ inviolable,adj,hallowed
 invisible,adj,unseesome
 invitation,n,lathing 
 involve,vb,take in
+iodine,n,baseshaft
 ion,n,streammote
 ionosphere,n,streamlayer
 iota,n,beans
@@ -3187,6 +3236,7 @@ ipseity,n,ass
 irascible,adj,prickly
 ire,n,wrath
 iridescence,n,shimmering
+iridium,n,rainbowshaft
 iris,n,eyebow
 irony,n,witherweening 
 irrational,adj,groundless
@@ -3214,7 +3264,6 @@ jam,n,-sweetspread
 jamais vu,n,neverseen
 janitor,n,caretaker
 January,n,Afteryule 
-Japan,n,Land of the rising sun
 jar,n,urn 
 jargon,n,shoptalk
 jaundiced,adj,sallow
@@ -3276,14 +3325,14 @@ kayak,n,mansboat
 kennel,n,doghouse
 ketchup,n,blooddip
 kilig,n,lovespark
-from High German,n,kindergrove
+kindergarten,n,childeryard
 kiosk,n,booth
 kleptomania,n,mad theft
 kleptomaniac,n,mad thief
 knowledgeable,adj,knowledgeful
 Korea,n,Mornfrithland
 kowtow,vb,bootlick
-krypton,n,hiddenmote
+krypton,n,dernshaft
 labia majora,n,greater ladylips 
 labia minora,n,lesser ladylips 
 laboratory,n,workshop
@@ -3308,6 +3357,7 @@ languid,adj,limp
 languish,vb,pine
 languor,n,listlessness
 lanolin,n,wool wax
+lanthanum,n,hiddenshaft
 lapidary,n,ingraver
 lapis lazuli,n,skystone 
 lapse,n,fluff
@@ -3326,6 +3376,7 @@ laundrette,n,washhouse
 laundry,n,wash
 lava,n,molten rock
 lawn,n,mead
+lawrencium,n,lawrenceshaft
 lawyer,n,lawman
 lax,adj,careless
 laxative,n,stool-
@@ -3420,11 +3471,12 @@ literal,adj,verbatim
 literary,adj,written
 literate,adj,learned
 literature,n,bookcraft
-lithium,n,stonestuff
+lithium,n,stoneshaft
 lithograph,n,stonewrit
 lithography,n,stonewritting
 littoral,adj,searim
-liturgy,n,ledework 
+liturgy,n,ledework
+livermorium,n,livermoreshaft
 lizard,n,ask
 llama,n,sheepolvend 
 lobe,n,lap 
@@ -3456,7 +3508,6 @@ lubricate,vb,slick
 lubricated,adj,slippery
 lubricious,adj,hot
 lucid,adj,shining
-Lügenpresse,n,liënpress
 luminous,adj,light-bearing
 lunacy,n,madness
 lunar,adj,moonly
@@ -3467,7 +3518,7 @@ lupine,adj,wolven
 luscious,adj,lush
 luster,n,gloss
 lutein,n,yellowen 
-lutetium,n,parisstuff
+lutetium,n,parisshaft
 luxe,adj,silken
 luxuriant,adj,green
 lycanthropy,n,warewolf-sickness
@@ -3481,7 +3532,7 @@ magazine,n,daily
 magician,n,wizard
 magistrate,n,deemer
 maggot,n,worm
-magnesium,n,bitterstuff
+magnesium,n,lodeshaft
 magnesium oxide,n,bitter earth
 magnate,n,mickman
 magnet,n,loadstone/lodestone 
@@ -3529,7 +3580,7 @@ mandible,n,jowlbone
 mandrake,n,skinroot
 mandrill,n,hueleer ape
 manga,n,dawnlandish talestrips
-manganese,n,keepstuff
+manganese,n,keepshaft
 manger,n,trough
 mango,n,gawk's/yeke's bliss 
 mangrove,n,shrubmarsh
@@ -3550,7 +3601,7 @@ manual,adj,handly
 manufacture,vb,frame
 manure,n,dung
 manuscript,n,handwrit
-Maoism,n,Mao Zedong Thought/Mao Tsetung Thought/Mao Cetung Thought 
+Maoism,n,Mao Zedong Thought/Mao Tsetung Thought
 map,n,plot
 marble,n,shinestone 
 March,n,Miremonth
@@ -3567,9 +3618,12 @@ marquess,n,athelman
 marriage,n,wedding
 marry,vb,wed
 marsupial,n,pursedeer 
-martyr,n,bloot 
+martyr,n,throer 
 marvelous,adj,wonderful
-Marxism,n,Marxdom
+Marxism,n,Marxlief
+Marxist,adj,Marxish
+Marxist,n,Marxliever
+mask,n,grime
 masochism,n,achelove
 masochist,n,seeksorrow
 mason,n,stonecutter
@@ -3584,7 +3638,6 @@ master,n,head
 mastodon,n,breasttooth 
 masturbate,vb,frig 
 masturbation,n,self-love
-match,n,game
 material,adj,weighty
 maternal,adj,motherly
 mathematics,n,rimecraft 
@@ -3604,7 +3657,9 @@ media,n,means
 mediate,vb,formiddle 
 mediate,adj,halfway
 mediator,n,formiddler
-medicine,n,healing 
+medicinal plant,n,leechwort
+medicine,n,healing
+medicine book,n,leechbook
 medieval,adj,middle eld
 mediocre,adj,middling
 meditate,vb,hedge
@@ -3617,6 +3672,7 @@ megalodon,n,mickletooth
 megalopolis,n,mickleborough
 megaphone,n,bullhorn
 meiosis,n,frumecleaving
+meitnerium,n,meitnershaft
 melancholy,adj,dreary
 melee,n,tussle
 melody,n,gleestaff 
@@ -3624,8 +3680,9 @@ melon,n,rindberry
 member,n,limb
 membrane,n,film
 memento,n,keepsake
-memory,n,mimor
+memory,n,amind
 menagerie,n,housekeep 
+mendelevium,n,mendelevshaft
 meningitis,n,brimshell addle
 menstrual,adj,monthly
 menstruate,vb,monthbleed
@@ -3645,8 +3702,8 @@ merge,vb,blend
 meridian,n,high noon
 merit,n,meed
 merry-go-round,n,merry-werve
-Mesolithic,n,Middle Stoneseldth
-Mesopotamia,n,Mesopotamland
+Mesolithic,n,Middle Stone Eld
+Mesopotamia,n,Twostreamland
 meson,n,midmote
 message,n,earful
 metal,n,ore
@@ -3657,10 +3714,11 @@ methane,n,firedamp
 method,n,way
 metropolis,n,mickleborough
 Mexico,n,Moonsnavel
-mezozoicum,n,midlife eldth
+mezozoicum,n,midlife eld
 microscope,n,speckseer
 Midgard,n,Midgarth
 migrate,vb,outwander 
+military,adj,militish
 militia,n,folkward
 millennia,n,yearthousands
 millennium,n,yearthousand
@@ -3713,6 +3771,7 @@ moist,adj,damp
 molar,n,wongtooth 
 molasses,n,sweetsap
 mold,vb,build
+molybdenum,n,bylead
 moment,n,eyeblink
 monarch,n,king
 monarchism,n,kingdom
@@ -3746,12 +3805,13 @@ mortgage,n,wadset
 mother nature,n,Lady Lund
 mortuary,n,deadhouse
 mosaic,n,shardbild
+moscovium,n,moscowshaft
 mosquito,n,gnat
 motion,n,shrithing
 motionless,adj,stock-still
 motive,n,rethe
 motor,n,wheels
-motorboat,n,watercraft
+motorboat,n,speedboat
 motorcycle,n,halfwain
 motorway,n,highway
 motto,n,saying
@@ -3805,14 +3865,15 @@ nasal bone,n,nosely bone
 natatorium,n,swimming pool
 nation,n,folk
 national,adj,theedish
-nationalism,n,flag-waving
+nationalism,n,theedlief
 native,n,towner
 native,adj,homely
-natural,adj,clay
+natural,adj,kindful
 natural logarithm,n,infold 
 natural selection,n,drain of life
+naturality,n,kindliness
 naturally,n,smoothly
-nature,n,clay
+nature,n,kind
 naturism,n,barelife
 naturists,n,barefolk
 nausea,n,sickness
@@ -3838,12 +3899,16 @@ neglect,vb,forget
 negligent,vb,heedless
 negotiate,vb,moot
 neocortex,n,brain bark
+neodymium,n,newtwinshaft
 Neolithic,n,New Stone Eld
-neon,n,newstuff
+neon,n,newshaft
 neophyte,n,greenhorn
 nepenthe,n,unmourner
 nephew,n,neve
+nephrologist,n,kidneyleech
+neptunium,n,wadeshaft
 nerve,n,mettle
+neurologist,n,brainleech
 neurose,n,sinewsweet
 neurotransmitter,n,sinew sender
 neutral,adj,unsided
@@ -3857,9 +3922,12 @@ niche,n,nook
 niece,n,nift
 Niflheim,n,Mistworld
 nihilism,n,wearning 
+nihonium,n,nihonshaft
+niobium,n,niobeshaft
 Níðhöggr,n,Nithehewer
-nitrogen,n,stickstuff 
+nitrogen,n,stickshaft 
 Nizhny Novgorod,n,Nether Newton
+nobelium,n,nobelshaft
 nobility,n,atheldom 
 nocturnal,adj,nightly
 nocturne,n,night-swey
@@ -3935,8 +4003,9 @@ obsessive compulsive disorder,n,brainlock
 obsidian,n,ravenflint 
 obsolete,adj,outworn
 obstacle,n,block
-obstinate,adj,headstrong
+obstetrician,n,birthleech
 obstetrics,n,birthhelp 
+obstinate,adj,headstrong
 obstruct,vb,block
 obstruction,n,hindering
 obtain,vb,get
@@ -3963,6 +4032,7 @@ offensive,adj,loath
 offering,n,gift
 office,n,ambight 
 officer,n,beadle
+oil,n,eal
 ointment,n,salve
 okay,adj,all right
 old fashioned,adj,stick-in-the-mud
@@ -3974,11 +4044,13 @@ ominous,adj,doomy
 omit,vb,leave out
 omnipotent,adj,almighty
 omniscient,adj,all-knowing
+oncologist,n,cankerleech
 onomatopoeia,n,hearword
 onion,n,ramson
 opera,n,singplay
 operate,vb,work
 operation,n,medical
+ophthalmologist,n,eyeleech
 opinion,n,thought
 opossum,n,whitedeer 
 opponent,n,witherling
@@ -4027,8 +4099,10 @@ orphan,n,sunderling
 orthodox,adj,mainstream
 orthodoxy,n,lorespell
 orthography,n,rightspelling 
+osmium,n,smellshaft
 osprey,n,seahawk
 ossicle,n,earbone
+osteologist,n,boneleech
 osteology,n,bonelore
 osteoporosis,n,bone brittling
 ostrich,n,strutter 
@@ -4042,7 +4116,7 @@ overcharge,vb,overload
 overdue,adj,overowed
 overemphasize,vb,overplay
 ovum,n,eggling
-oxygen,n,breath of life
+oxygen,n,sourshaft
 oxymoron,n,sharpdull 
 oyster,n,clam
 pabulum,n,fodder
@@ -4050,8 +4124,9 @@ pacifier,n,soother
 pacifist,n,dove
 package,n,wrapping
 paddle,n,oar
-pædophile/pedophile,n,childluster
-pædophilia/pedophilia,n,childlust
+paediatrician,n,childleech
+paedophile,n,childluster
+paedophilia,n,childlust
 pagan,n,heathen
 paganism,n,heathendom
 page,n,side
@@ -4072,13 +4147,14 @@ paleolithic,adj,ur-/orstonely
 paleontology,n,ur/orwightlore
 palindrome,n,crabword
 palisade,n,stakehedge
+palladium,n,pallasshaft
 palliate,vb,whitewash
 pallid,adj,ashen
 palmtree,n,folmtree
 palmary,adj,heriworthy
 palpitate,vb,throb
 pamphlet,n,flyer
-panaceä,n,cure-all
+panacea,n,heal-all
 pancreas,n,sweet kernel
 panda bear,n,greater
 pandemonium,n,hexkettle 
@@ -4115,7 +4191,7 @@ pariah,n,outcast
 parietal bone,n,skullwall
 parish,n,bedeshire
 park,n,ersh 
-parliament,n,witenagemot 
+parliament,n,witenmoot 
 parrot,n,bleefowl
 parsimonious,adj,mean
 parsley,n,crispleaf
@@ -4179,6 +4255,7 @@ pedal,n,treadle
 pedal,adj,foot
 pedestal,n,footstone 
 pedestrian,n,walker
+pediatrician,n,childleech
 peel,n,husk
 peel,vb,rend
 pegasus,n,winged horse
@@ -4230,7 +4307,7 @@ persecution,n,witch hunt
 perseverance,n,sticktoitivenesss
 persistence,adj,steadfastness
 persistent,adj,steadfast
-person,n,someone
+person,n,leed
 personal,adj,selfly
 personality,n,egg
 personnel,n,staff
@@ -4276,13 +4353,13 @@ phonetic,adj,dinly
 phonological,adj,loudlorish
 phonology,n,reardwork
 phosphorescent,adj,lightshedding
-phosphorus,n,glowstuff
+phosphorus,n,blikeshaft
 photograph,n,shot
 photography,n,lightshooting
 photon,n,lightmote
-phrasal,adj,grammar
 phrase,n,wordstring
 phylum,n,stem
+physiatrist,n,backleech
 physics,n,worldken
 physical,adj,bodily
 physician,n,leech
@@ -4314,12 +4391,12 @@ pipe,n,leat
 pirate,n,seareaver
 pirate captain,n,highseareaver
 pisiform bone,n,peabone
-pistol,n,gun
+pistol,n,handgun
 piston,n,sucker 
 pity,n,shame
 pivotal,adj,key
 pixel,n,dot
-pizza,n,flatcake
+pizza,n,firecake
 place,vb,lay
 place,n,spot
 placenta,n,afterbirth
@@ -4330,7 +4407,7 @@ plan,n,layout
 plank,n,board
 plankton,n,drifter moss
 planning,n,frame
-planet,n,wanderstar
+planet,n,tungle
 plant,n,wort
 plant,vb,sow
 planted,adj,besowen
@@ -4340,7 +4417,7 @@ plastic,n,newclay
 plateau,n,dish
 plate of metal,n,clout 
 platform,n,deck
-platinum,n,white gold
+platinum,n,whitegold
 platitude,n,hackneyed saying
 platypus,n,watermole
 pleasant,adj,blessed
@@ -4362,15 +4439,17 @@ plunder,vb,stroud
 plunge,vb,dip
 plural,adj,morefold
 plutocracy,n,gelddom
+plutonium,n,hellshaft
 pluvial,adj,rain
 pneumatic,adj,of a woman
 pneumonoultramicrosco-picsilicovolcanoconosis,n,inbreathedgroundashandsanddustsickness
-poem,n,lay
-poet,n,scop
+podiatrist,n,footleech
+poem,n,leeth
+poet,n,shop
 poetry,n,dighting
 point,n,tip
 pointless,adj,sakeless
-poison,n,bane
+poison,n,atter
 polar bear,n,ice bear 
 polar zone,n,land of the midnight Sun
 pole,n,shot 
@@ -4381,8 +4460,9 @@ polite,adj,becoming
 political,adj,mootish
 politically correct language,n,egg-shell speak
 politician,n,lawmaker
-politics,n,shirecraft
+politics,n,woldcraft
 pollute,vb,foul
+polonium,n,poleshaft
 poltergeist,n,dinghost
 polycephaly,n,manyheadedness
 polygamist,n,maniwed
@@ -4438,10 +4518,10 @@ posterior,n,rump
 posteriority,n,afterness
 posterity,n,offspring
 post-existence,n,afterlife
-posthuman,n,afterwere
-posthumanism,n,afterweredom
+posthuman,adj,aftermennish
+posthumanism,n,aftermandom
 postpone,vb,forestall
-potassium,n,potash 
+potassium,n,potashshaft 
 potato,n,spud
 potential,adj,likely
 potential,n,strength
@@ -4460,6 +4540,7 @@ pragmatic,adj,hardheaded
 praise,n,heriness 
 praise,vb,hery 
 pram,n,buggy
+praseodymium,n,greentwinshaft
 prayer,n,bead
 prayerful,adj,beadful
 preach,vb,athelbid
@@ -4610,6 +4691,7 @@ prokaryote,n,forenut
 proletariat,n,churls
 prolific,adj,fat
 prologue,n,foretale
+promethium,n,lightbearendshaft
 promise,n,behight
 promise,vb,behight
 promontary,n,headland
@@ -4629,7 +4711,7 @@ prophecy,n,foresight
 prophet,n,seer
 proposal,n,forthput
 propose,vb,put forth
-propriëtor,n,householder
+proprietor,n,householder
 propulsion,n,thrust
 proscribe,vb,forbid
 prosecution,n,forfollowing 
@@ -4641,6 +4723,7 @@ prosperous,n,frim
 prostitute,vb,whore
 prostitute,n,hooker
 prostrate,adj,aground
+protactinium,n,orbeamshaft
 protagonist,n,headfellow 
 protarchæopteryx,n,foreorfowl
 protect,vb,ward
@@ -4650,7 +4733,7 @@ protector,n,warden
 protégé,n,ward
 protein,n,eggwhite 
 Protestant,n,witness for Christ
-Proto-Germanic,n,eretheedish
+Proto-Germanic,n,Ortheedish
 proton,n,erebit
 protoplasm,n,ereslime
 protrude,vb,stick out
@@ -4695,7 +4778,7 @@ punctuation,n,tokenmark
 punish,vb,wreak
 punishment,n,wreak
 pup,n,whelp
-pupil,n,of the eye
+pupil,n,see
 puppet,n,cat's paw
 purchase,vb,buy
 pure,adj,clean
@@ -4753,7 +4836,9 @@ radiate,vb,shine
 radioactive,n,lightrotting
 radiotelegraphy,n,broadcasting
 radio wave,n,ringwave
+radium,n,streelshaft
 radius,n,spoke
+radon,n,gleamshaft
 rage,n,wrath
 railroad,n,ironroad
 raison d'état,n,theedish intryst 
@@ -4766,7 +4851,7 @@ ranger,n,keeper
 rank,n,row
 rankle,vb,gall
 rapid,adj,fast
-rappel,vb,abseil
+rappel,vb,offseil
 rare,adj,fewsome
 rarified,adj,fewsome
 rarify,vb,make seldom
@@ -4808,7 +4893,7 @@ record,n,log
 recount,vb,overname
 recover,vb,heal
 recovery,n,comeback
-recreätion,n, fun and games
+recreation,n, fun and games
 recriminate,vb,threap
 recruit,n,fledgling
 rectangle,n,righthook 
@@ -4870,14 +4955,14 @@ release,n,outlung
 release,vb,free
 reliable,adj,trustworthy
 relieve,n,lighten
-religion,n,faith
+religion,n,troth
 religious,adj,worshipful
 relinquish,vb,cough up
 reluctant,adj,chary
 remain,vb,belave
 remainder,n,lave
 remains,n,ashes
-remedy,n,heeling
+remedy,n,leechdom
 remember,vb,hark back
 remind,vb,call to mind
 reminder,n,edminding
@@ -4885,7 +4970,7 @@ reminisce,vb,eftmind
 remnant,n,leftover
 remote,adj,slight
 remove,vb,foredo 
-renaissance,n,andblowing
+renaissance,n,edblowing
 renal,adj,kidney
 rename,vb,edname
 render,vb,cough up
@@ -4915,7 +5000,7 @@ repress,vb,crack down on
 reprimand,vb,upbraid
 reprove,vb,chide
 reproach,vb,bawl out
-reptile,n,creeping thing 
+reptile,n,creepdeer
 republic,n,ledeward
 reputation,n,mark
 request,n,call
@@ -4925,7 +5010,7 @@ requirement,n,need
 requite,vb,get even for
 rescribe,vb,write back
 rescue,vb,free
-research,n,Seeking
+research,n,seeking
 research,vb,dig into
 resemblance,n,alikeness
 resentment,n,down
@@ -4947,7 +5032,7 @@ resolute,adj,set
 resonate,vb,withswing 
 resort,n,vacation
 resort,vb,brook
-resource,vb,rawstuff 
+resource,vb,rawshaft
 respawn,vb,backbirth
 respect,n,heed
 respect,vb,aughten 
@@ -5003,8 +5088,10 @@ revolution,n,ywhorft
 revolve,vb,spin
 reward,n,meed 
 reward,vb,meed
+rhenium,n,rineshaft
 rhetoric,n,wind
 rhinoceros,n,nosehorn 
+rhodium,n,bloomshaft
 rhombus,n,rout 
 rhotacism,n,arbrookdom
 rhotic,adj,arfully
@@ -5029,6 +5116,7 @@ robust,adj,fit
 robot,n,wileman 
 rocket,n,rock
 rodent,n,gnawer
+roentgenium,n,röntgenshaft
 role,n,playwork
 rolling-paper/cigarette-paper/Rizla,vb,welt/walt 
 roller skates,n,weltshoes 
@@ -5045,6 +5133,7 @@ route,n,pathway
 router,n,networking
 royal,adj,kingly
 royalty,n,kingship
+rubidium,n,redshaft
 rude,adj,unbehaved
 rule,vb,lead
 rule,n,law
@@ -5054,6 +5143,8 @@ rumour,n,hearsay
 rural,adj,outburg
 Russia,n,Russland
 rustic,n,backwoodsman
+ruthenium,n,russhaft
+rutherfordium,n,rutherfordshaft
 sabotage,vb,cripple
 saboteur,n,crippler
 sacred,adj,holy
@@ -5069,7 +5160,8 @@ safe,adj,sound
 safety,n,shelter
 safe space,n,haven
 sagacious,adj,insightful
-saint,n,holyman
+saint,adj,holy
+saint,n,hallow
 sainthood,n,hallowdom
 saliva,n,spit
 salamander,n,landwater athex
@@ -5080,6 +5172,7 @@ salutary,n,friendly
 salutation,n,greeting
 salvation,n,lifeline
 salvo,n,unload
+samarium,n,samarskyshaft
 sample,vb,to have a smack of
 samurai,n,-Easternwye
 sanctify,vb,hallow
@@ -5088,7 +5181,7 @@ Santa Claus,n,Father Christmas
 sapient,n,much wise
 sarcophagus,n,stonethroughsunkingthrough 
 sasquatch,n,Bigfoot
-Satanism,n,-Heathenish
+Satanism,n,Satanlief
 satchel,n,knapsack
 satellite,n,moon
 satiate,vb,fulfill
@@ -5101,8 +5194,8 @@ sauerkraut,n,sourcole
 sauna,n,steam room
 sausage,n,pudding
 save,vb,spare
-saviour,n,-sparer
-savory,adj,-smeckfull
+saviour,n,sparer
+savory,adj,smeckfull
 Saxon,n,Saxish
 Saxony,n,Saxland 
 saxophone,n,saxhorn
@@ -5110,7 +5203,7 @@ scald,vb,forseethe
 scale,vb,climb
 scale,n,layout
 scalpel,n,leechsax
-scandium,n,scadistuff 
+scandium,n,shedshaft
 scapegoat,n,fenman 
 scaphoid bone,n,boatbone
 scapula,n,shoulderbone
@@ -5128,9 +5221,9 @@ schizophrenia,n,splitmindness
 scholar,n,learner
 scholarship,n,knowledge
 school,n,lorehall
-science,n,knowledge
-scientist,n,knower
-scientific,adj,wisdomly
+science,n,witship
+scientist,n,witshipper
+scientific,adj,witshiply
 scientific language,n,craftspeech 
 scintillate,vb,sparkle
 scissors,n,blades
@@ -5145,6 +5238,7 @@ scrutinize,vb,scrut
 scrutiny,n,shroutening 
 scuba,n,siubt 
 sea monster,n,merfiend
+seaborgium,n,seaborgshaft
 search,vb,seek
 search word,n,headword
 season,n,time
@@ -5153,7 +5247,7 @@ sebum,n,tallow
 secede,vb,leave
 secession,n,selfhhod
 secessionist,n,freedomfighter
-second,n,moment
+second,n,brightomwhile
 second,adj,twoth
 secret society,n,himebind 
 secretary,n,reeve
@@ -5173,7 +5267,7 @@ segregation,n,beshedding
 seize,vb,hold
 seizure,n,fit
 select,vb,choose
-selenium,n,moonstuff
+selenium,n,moonshaft
 self-effacement,n,self-naughting
 self-esteem,n,self-worth
 self-restraint,n,forhaveness 
@@ -5189,7 +5283,7 @@ senior citizens,n,elderly
 sensate,adj,feeling
 sensation,n, feeling
 sensational,adj,amazing
-sense,n,feeling 2
+sense,n,feeling 
 sense,vb,feel
 senses,n,the five wits
 sensible,vb,feelbere 
@@ -5212,9 +5306,9 @@ sequoia,n,ettinfirwood
 series,n,line
 serious,adj,earnest
 serpent,n,snake
-servant,n,help
+servant,n,hine
 serve,vb,help
-servea meal,vb,help
+serve a meal,vb,help
 server,n,sender
 serf,n,bondman
 service,n,besteading
@@ -5224,8 +5318,10 @@ settlement,n,hem
 several,adj,sundry
 severe,adj,stern
 sewer,n,drain
-sex,n,kind
+sex,n,hoad
 sex act,n,kin-making
+sexual,adj,heamedy
+sexual intercourse,n,amone
 sexual reproduction,n,breeding
 sexy,adj,fetching
 shantytown,n,tinstow
@@ -5246,35 +5342,36 @@ significant,adj,noteworthy
 sign language,n,deaf talk 
 silence,vb,hush
 silence,n,stillness
-silicon,n,flintstuff
+silicon,n,flintshaft
 similar,adj,alike
 simile,n,likeness
 simple,adj,onefold
 single,adj,one 
-singular,adj,unique
+singular,adj,onefold
 singularity,n,oneness
-sir,n,Lord
+sir,n,wie
 sire,n,lord
 Sirius,n,Dog Star
 site,n,stead
 situate,vb,lay down
 situation,n,lay
 size,n,greatness
-skeleton,n,frame
+skeleton,n,boneframe
 slave,n,bondman
 slavery,n,thraldom
 smuggler,n,owler
 snow globe/snowglobe,n,snowkuggle 
 soccer,n,football
 social media,n,fellowly means
-socialism,n,thralldom
-socialist,n, adj
+socialism,n,thoftlief
+socialist,n,thoftliever
 social/societal,adj,friendly
 society,n,fellowship
 socket,n,outletbone
-sodium,n,saltstuff
+sodium,n,saltshaft
 solar,adj,sun-like
 solder,vb,weld
+soldier,n,harman
 solid,adj,hard
 solstice,n,sunstead
 solve,vb,answer
@@ -5283,7 +5380,7 @@ sorcerer,n,drye
 sorcery,n,witchcraft
 sorrel,n,sourleaf
 sound,n,reard
-source,n,birthplace
+source,n,ordfrom
 sous vide,adj,wetbaking
 sovereign,adj,selfstanding 
 space,n,roomastrology
@@ -5305,15 +5402,15 @@ sponge,n,swamb
 sport,n,lark
 squadron,n,sheltron
 square,n,fourside 
-squirrel,n,aquern O
+squirrel,n,aquern
 stable,adj,steady
 stadium,n,spurd 
 standard,adj,stock
 stapes,n,stirrup
 state,vb,utter
 state,n,condition
-statue,n,standbilth 
-status,n,rank
+statue,n,graft 
+status,n,standing
 statute,n,setness
 stay,vb,belive
 stellar,adj,starly
@@ -5329,6 +5426,7 @@ stray,vb,wander
 street,n,road
 stress,n,burden
 strict,adj,hash
+strontium,n,strontianshaft
 structure,n,makeup
 student,n,learner
 studio,n,worksteadmovies
@@ -5366,12 +5464,11 @@ suicide,n,self-murder
 sui generis,adj,one-of-a-kind
 sulfur,n,brimstone
 sunflower,n,sunbloom
-sun's dwelling,n,The sky
 supercalifragilisticexpialidocious,adj,overfairnessbrokenliatoneliteachworthy
 supercontinent,n,overworlddeal
 superhero,n,overheleth
 superhuman,adj,overman
-superior,adj,overly
+superior,adj,better
 supermarket,n,overchepstow
 supernatural,adj,otherwordly
 supernova,n,overnew
@@ -5405,8 +5502,8 @@ suspicion,n,mistrustfulness
 suspicious,adj,mistrustful
 sustain,vb,underhold
 suitable,adj,fit
-Swabia,n,Swabeland
-Swabian,n,Swabish
+Swabia,n,Sweaveland
+Swabian,n,Sweave
 swastika,n,fylfot
 syllable,n,staveset
 sympathy,n,sithfeeling 
@@ -5429,7 +5526,7 @@ talkative,adj,talksome
 talus bone,n,anklebone
 tanner,n,barker
 tank,n,pond
-tantalum,n,whetstuff
+tantalum,n,whetshaft
 tantrum,n,fit
 tardigrade,n,waterbear
 target,n,goal
@@ -5444,23 +5541,25 @@ taxation,n,tithing
 taxidermy,n,stuffing
 taxman,n,toller
 taxonomy,n,stightlore
-tea,n,leafwos 
+tea,n,leafooze
+technetium,n,craftshaft
 technical,adj,craftly 
 technical language,n,craftspeech 
 technically,adj,lorewise
-technology,n,craft
+technology,n,sarecraft
 tedious,adj,dreary
 telegram,n,wire-spell 
 telegraph,n,spell-wire 
 telepathy,n,mindreading
 telephone,n,farspeaker
 teleporter,n,farferrier
-telescope,n,farseer
-television,n,show screen
+telescope,n,spirglass
+television,n,farseer
 televisual,adj,sightcast
+tellurium,n,earthshaft
 temperament,n,lund 
 temperate,adj,mild
-temperate zone,n,midstrip
+temperate zone,n,mildstrip
 temperature,n,heat
 tempest,n,storm
 tempestuous,adj,blood-and-guts
@@ -5477,12 +5576,14 @@ tend,vb,tilt towards
 tender,adj,nesh
 tendon,n,sinew
 tenebrous,adj,dark
-tense,n,grammar
+tennessine,n,tennesseeshaft
+tense,n,tide
 tense,adj,edgy
 tensor,n,stretcher
 tent,n,tilt
 tentacle,n,feeler
 tepid,adj,halfhearted
+terbium,n,upplandshaft
 terracota,n,bakedearth 
 terrain,n,landscape
 term,n,name
@@ -5508,8 +5609,9 @@ text,n,queath
 textbook,n,handbook
 textile,n,thrum
 texture,n,mouthfeel
+thallium,n,twigshaft
 thatched,adj,thatchen 
-theatre,n,drama
+theatre,n,playhouse
 theme,n,feel
 theology,n,godlore
 theory,n,thought
@@ -5520,15 +5622,17 @@ thermology,n,warmthlore
 thermometer,n,warmthmeter 
 thermonuclear,adj,warmthkernly
 thermostat,n,warmthteller
-thesaurus,n,begripwordbook 
+thesaurus,n,begripwordbook
+thorium,n,thundershaft
 throne,n,seat
 thug,n,outlaw
+thulium,n,thileshaft
 tibia,n,shank-bone
 tiger,n,stripecat
 time of tribulation,n,woe
 timid,adj,shy
 tint,n,blee
-titanium,n,strongstuff
+titanium,n,ettinshaft
 title,n,name
 tmesis,n,umgrave
 TNT,n,boomkeg
@@ -5561,7 +5665,7 @@ towel,n,cloth
 tower,n,keep
 tower,vb,outwax
 toxoplasmosis,n,bowmolden sickness
-tracheä,n,windpipe
+trachea,n,windpipe
 track,n,path
 tractor,n,tug
 trade union,n,workship 
@@ -5571,7 +5675,7 @@ traffic,n,wains
 tragedy,n,ill
 tragic,adj,heartbreaking
 trailblazing,adj,groundbreaking
-train,n,tow
+train,n,tugwain
 trainer,n,outbilder 
 trait,n,tie
 traitor,n,backstabber
@@ -5597,7 +5701,7 @@ transparency,n,see-throughness
 transparent,adj,sheer
 transpire,vb, sweat
 transport,vb,ferry 
-transsexual,n,folkhalf shifter
+transsexual,adj,yondkind
 transsubstantiate,vb,yondwhat
 transubstantiation,n,wistforwandering 
 transvestite,n,thwart-dresser
@@ -5660,6 +5764,7 @@ tuition,n,teaching geld
 tulip,n,houvebloom
 tumor,n,amper 
 tundra,n,northgrass
+tungsten,n,wolfraven
 tunic,n,chesthelm
 tunnel,n,burrow
 turban,n,houve
@@ -5694,7 +5799,7 @@ ubiquitous,adj,everywhere
 ubiquity,n,everywhereness
 Ukraine,n,Borderland
 Unidentified Flying Object,n,Unmarked Flying Onget
-ulcer,adj,sore 
+ulcer,n,bile 
 ulna,n,ell
 ulterior,adj,later
 ultimate,adj,last
@@ -5737,7 +5842,7 @@ unique,adj,one-off
 unit,n,fach 
 unite,vb,knit
 united,adj,knitted
-United States of America,n,Oned Rikes Of America
+United States of America,n,Oned Riches Of America
 unity,n,oneness 
 universal,adj,broad-brush
 universality,n,allness
@@ -5751,7 +5856,8 @@ unmanageable,adj,headstrong
 unnecessary,adj,needless
 unnerve,vb,unsettle
 unoccupied,adj,empty
-update,vb,bywork 
+update,n,anwardening
+update,vb,anwarden 
 unpleasant,adj,bad
 unpopular,adj,unfolkly
 unproductive,adj,bony
@@ -5766,14 +5872,17 @@ unsuitable,adj,unbefitting
 unsympathetic,adj,slash-and-burn
 unusual,adj,funny
 unveil,vb,bare
+uranium,n,brimshaft
 urban,adj,townish
 urbanite,n,townsman
 urbanization,n,betowning
 urbanize,vb,betown
-urination,n,weeing slang
-urine,n,wee slang
+urinate,vb,migh
+urination,n,mighing
+urine,n,mighth
+urologist,n,mighthleech
 ursa major,n,The Plough
-use,n,need
+use,n,note
 use,vb,brook
 used to,adj,wonted to
 used to,vb,formerly
@@ -5814,7 +5923,7 @@ valour,n,ellen
 value,n,worth
 value,vb,worthen
 vampire,n,bloodsucker
-vanadium,n,vanadistuff 
+vanadium,n,fryshaft 
 vanguard,n,andward 
 Vánir,n,sea gods
 vanish,vb,fade
@@ -5835,16 +5944,15 @@ veal,n,calf
 vector,n,wayload
 veer,vb,swerve
 veil,n,wimple
-vegan,n,madman
 vegetable,n,green
-vegetarian,n,greens-eater
+vegetarian,n,greenseater
 vehicle,n,wain
 vein,n,edder 
 velcro,n,graspcloth
 velociraptor,n,quickreacker
 vendor,n,seller
 venesection,n,bloodletting
-venison,n,deer meat
+venison,n,hartflesh
 vent,n,hole
 venturesome,adj,daring
 venue,n,stead
@@ -5854,7 +5962,7 @@ verbal,adj,wordy
 verbatim,adj,word-for-word
 verbose,adj,long-winded
 verbosity,n,wordiness
-verdant,n,green
+verdant,adj,green
 verge,n,brink
 verify,vb,find out
 verity,n,truth
@@ -5862,7 +5970,7 @@ vernacular,n,unbookish
 vernal,adj,spring
 verse,n,fit
 version,n,reading
-vertebra,n,back bone
+vertebra,n,backbone
 vertical,adj,standing
 vertigo,n,swindlehood 
 veruca,n,wart
@@ -5871,7 +5979,8 @@ vesica,n,bladder
 vespertilines,n,bat
 vessel,n,vat
 vest,n,British
-vestibule,n,cavortown 
+vestibule,n,cavortown
+veterinarian,n,deerleech
 vex,vb,nettle
 vexation,n,feaze
 vibrate,vb,shiver
@@ -5887,9 +5996,9 @@ victor,n,winner
 victory,n,win
 video,n,film
 video CD,n,show-dish
-video game,n,game
+video game,n,reckoner-game
 Vietnam,n,Vietland
-Vietnamese,adj,Viet
+Vietnamese,adj,Vietish
 view,n,outlook
 view,vb,look
 viewer,n,onlooker
@@ -5901,7 +6010,7 @@ vigour,n,liveliness
 vigorous,adj,hearty
 vile,adj,evil
 Vili,n,ghost brother
-village,n,hem
+village,n,thorp
 villain,n,wretch
 vine,n,droovebeam 
 vinegar,n,atched 
@@ -5929,7 +6038,7 @@ visit,n,fandlebeseeking
 visitor,n,caller
 vital,adj,flush
 vitality,n,liveliness
-vitamin,n,life-stuff 
+vitamin,n,lifeshaft 
 vocabulary,n,word-hoard
 vocal,adj,loud
 vociferous,adj,outspoken
@@ -5954,7 +6063,7 @@ vulture,n,geir
 wallpaper,n,wallleaf
 walrus,n,sea horse
 wapiti,n,lesser
-War Minister,n,wyeambightercrigambighter 
+War Minister,n,wyeambighter
 warrior,n,fighter
 waste,vb,blow
 waste,n,chaff
@@ -5973,7 +6082,7 @@ word salad,n,word addle
 wreckage,n,loss
 x-ray,n,Roentgen wave
 xanthous,adj,yellowbrown
-xenon,n,ellendmote
+xenon,n,walshaft
 xenophilia,n,ellendlove
 xenophobia,n,ellendfear
 xerophilia,n,droughtlove
@@ -5994,6 +6103,8 @@ yogurt,n,milkbrew
 York,n,Everwick
 Yorkshire,n,Everwickshire
 yo-yo,n,reelstringer
+ytterbium,n,outerbyshaft
+yttrium,n,vaxholmshaft
 Yugoslavia,n,Southslavland
 zabaglione,n,winefoam
 zany,adj,brainless
@@ -6009,10 +6120,13 @@ zero,n,naught
 zeroth,adj,noughth
 zest,n,nip
 zig-zag,vb/n/adj,stepside
+zinc,n,tineshaft
+zirconium,n,goldock
 zodiac,n,girdle
 zombie,n,undead
 zone,n,belt
 zoo,n,deerfold
+zoologist,n,deerwit
 zoology,n,deerlore
 zucchini,n,summer marrow
 zygomatic bone,n,cheekbone
